@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Hello World!</string>
+<string name="app_name">RecommendationEngine</string>
+<string name="result_activity">ResultActivity</string>
+<string name="order">Order</string>
+
+<string-array name="menu_array">
+    <item>Tomato Soup</item>
+    <item>Chicken Soup</item>
+    <item>Broccoli Soup</item>
+    <item>Cajun Chicken Basket</item>
+    <item>Chips</item>
+    <item>Grilled Cheese</item>
+    <item>Bruschetta</item>
+    <item>Caesar Salad</item>
+    <item>Falafel Salad</item>
+    <item>Carpaccio</item>
+    <item>Burger</item>
+    <item>Club Sandwich</item>
+    <item>Ravioli</item>
+    <item>Penne Arabiata</item>
+    <item>Spaghetti Bolognese</item>
+    <item>New York Steak</item>
+    <item>Fajita</item>
+    <item>Salmon</item>
+    <item>Meatball</item>
+    <item>Buffalo Wings</item>
+    <item>Mix Pizza</item>
+    <item>Three Cheese Pizza</item>
+    <item>Apple Pie</item>
+    <item>Pumpkin Cheesecake</item>
+    <item>Brownie</item>
+    <item>Coke</item>
+    <item>Orange Juice</item>
+    <item>Apple Juice</item>
+    <item>Water</item>
+    <item>Tea</item>
+    <item>Latte</item>
+    <item>Mocha</item>
+    <item>Ice Latte</item>
+    <item>Ice Mocha</item>
+    <item>Ice Tea</item>
+</string-array>
+</resources>
